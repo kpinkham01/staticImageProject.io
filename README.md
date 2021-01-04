@@ -1,0 +1,1 @@
+# staticImageProject.io
