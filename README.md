@@ -1,1 +1,2 @@
 # staticImageProject.io
+# staticImageProject.io
