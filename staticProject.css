@@ -1,0 +1,16 @@
+.body {
+    background: url("../staticProject/assets/pexels-photo-1257860.jpg");
+}
+
+#article1 {
+    background: url("../staticProject/assets/Screen\ Shot\ 2021-01-03\ at\ 7.50.18\ PM.png");
+    margin: auto;
+}
+
+#article2 {
+    background: url("../staticProject/assets/Screen\ Shot\ 2021-01-03\ at\ 8.02.53\ PM.png");
+}
+
+#article3 {
+    background: url("../staticProject/assets/Screen\ Shot\ 2021-01-03\ at\ 8.03.15\ PM.png");
+}
